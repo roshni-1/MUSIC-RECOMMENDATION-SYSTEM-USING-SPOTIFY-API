@@ -45,5 +45,10 @@ The dataset for this project was collected using the Spotify API. The API allows
 ## Contributing
 Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request with your changes.
 
+<video width="640" height="360" controls>
+  <source src="https://github.com/roshni-1/MUSIC-RECOMMENDATION-SYSTEM-USING-SPOTIFY-API/blob/main/streamlit-music_recommender_app-2024-10-29-16-10-11.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
