@@ -15,9 +15,13 @@ The Music Recommendation System is a web application that recommends songs based
 ## Features
 - Song Recommendations: Get personalized song recommendations based on a selected track.
 - Filters: Filter recommendations by genre and various audio features including:
-  - Danceability
-  - Energy
-  - Tempo
+  
+- Danceability
+  
+- Energy
+  
+- Tempo
+
 - User-Friendly Interface: Simple and intuitive UI built using Streamlit.
 
 ## Technologies Used
